@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://c3rb3r3u5d3d53c.github.io/sitemap.xml
+Sitemap: https://thesimplezero.github.io/sitemap.xml

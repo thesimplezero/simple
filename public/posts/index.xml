@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>solve et coagula</title>
-        <link>https://thesimplezero.github.io/</link>
-        <description>Welcome to my little corner on the web</description>
+        <title>All Posts - solve et coagula</title>
+        <link>https://thesimplezero.github.io/posts/</link>
+        <description>All Posts | solve et coagula</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>thesimplezero@gmail.com (thesimplezero)</managingEditor>
-            <webMaster>thesimplezero@gmail.com (thesimplezero)</webMaster>
-            <atom:link href="https://thesimplezero.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>thesimplezero@gmail.com (thesimplezero)</webMaster><atom:link href="https://thesimplezero.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title></title>
     <link>https://thesimplezero.github.io/1/01/00-smoketest/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
